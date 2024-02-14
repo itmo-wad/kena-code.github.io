@@ -11,11 +11,14 @@ We can see also app.py the python code that serve the profile page in accordance
 
 # HOW TO RUN ?
 To run the project should :
+
  1- install flask (pip install flask)
+ 
  2- clone the repository of the project
+ 
  3- navigate to the repository and run the command : python3 app.py
 
-an reach the website on  http://localhost:5000
+ 4- Reach the website on  http://localhost:5000
 
 # CONTRIBUTORS
 
